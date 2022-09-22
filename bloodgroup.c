@@ -44,10 +44,6 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-<<<<<<< HEAD
-  printf("Goodluck seeya \n");
-=======
   printf("Goodbye seeu \n");
->>>>>>> 9a2adb1d2b0545a40a2c09401bc015613554c22b
   printf("See you next time");
 }
