@@ -45,5 +45,5 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
-  printf("GG_Bobo");
+  printf("See you next time");
 }
