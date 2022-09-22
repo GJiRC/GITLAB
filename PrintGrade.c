@@ -34,4 +34,6 @@ void main()
       scanf("%d", &SearchID);
   }
   printf("Bye Bye\n"); 
+  printf("Hello Worl");
+  printf("SUPER G #6002");
 }
